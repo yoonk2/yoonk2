@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yoon Kwon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning front-end engineering 
+- 👀 I’m interested in front-end engineering and product design.
+- 🌱 I’m currently learning javascript, react.js, p5.js, and django.
 - 📫 How to reach me Instagram @rnjsdbs_
 
 <!---
