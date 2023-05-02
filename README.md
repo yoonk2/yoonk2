@@ -3,7 +3,7 @@
 
 > Welcome to Yoon's GitHub!
 
-## [🚕🚐 최신 작업 보러가기 🚌🚗](https://doongzi.works/doongzipedia)
+## [🚕🚐 최신 작업 보러가기 🚌🚗](https://yoonk2.github.io/graphic-design)
 
 <!--- ![권운](https://user-images.githubusercontent.com/96626216/178883914-c2b6f99b-436c-4e24-848b-616d361e31cf.png) --->
 
