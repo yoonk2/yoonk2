@@ -12,4 +12,4 @@ yoonk2/yoonk2 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-![Yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonk2&show_icons=true&theme=radical)
+<!-- ![Yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonk2&show_icons=true&theme=radical) -->
